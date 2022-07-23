@@ -1,0 +1,29 @@
+
+
+[
+{
+    "nama" : "Rizky Hertama",
+    "umur" : 20,
+    "NIM"  : 2440062483,
+    "lulus": true,
+    "hobby": ["coding", "gaming"],
+    "pembimbing" : {
+        "pembimbing1" : "Bapak a",
+        "pembimbing2" : "Ibu c"
+    }
+},
+
+{
+"nama" : "Rizky Hertama",
+"umur" : 20,
+"NIM"  : 2440062483,
+"lulus": true,
+"hobby": ["coding", "gaming"],
+"pembimbing" : {
+    "pembimbing1" : "Bapak a",
+    "pembimbing2" : "Ibu c"
+}
+}
+
+]
+
